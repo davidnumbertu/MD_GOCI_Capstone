@@ -10,6 +10,5 @@ This is the capstone project of INST490, the final course of the Information Sci
 - Final dataset consists of County Data, State-Wide Data, and Bias Motivation Reports.
 
 ## Technologies Used
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-DAX-yellow)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
